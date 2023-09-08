@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Animals;
 
 public class Cat extends Animal implements AnimalStuff{
     public Cat(int age, String name) {

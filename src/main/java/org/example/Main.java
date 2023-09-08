@@ -1,5 +1,8 @@
 package org.example;
 
+import org.example.Animals.Cat;
+import org.example.Animals.Dog;
+
 public class Main {
     public static void main(String[] args) {
         Cat myCat = new Cat(2, "Kitty");
